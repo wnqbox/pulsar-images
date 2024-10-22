@@ -1,1 +1,1 @@
-FROM apachepulsar/pulsar:3.3.0
+FROM apachepulsar/pulsar-all:3.0.7
